@@ -2,8 +2,12 @@
     {
         "name": "Mount Elbert",
         "summitTrail": "North Mount Elbert Trail",
-        "city": "Twentynine Palms",
+        "city": "Closest City: Twin Lakes, Colorado",
         "elevation": "Elevation Gain: 4,468 ft",
+        "duration": "Duration: 7 hours 42 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 1",
         "id": 1001,
         "isFeatured": true,
         "isFavorite": true,
@@ -12,14 +16,18 @@
             "longitude": -106.445417,
             "latitude": 39.118075
         },
-        "description": "",
-        "imageName": "turtlerock"
+        "description": "Other trail information: ",
+        "imageName": "elbert"
     },
     {
         "name": "Mount Massive",
         "summitTrail": "Mount Massive Trail via South East",
-        "city": "Port Alsworth",
+        "city": "Closest City: Twin Lakes, Colorado",
         "elevation": "Elevation Gain: 4,537 ft",
+        "duration": "Duration: 8 hours 33 minutes",
+        "visit": "Best time to visit: Year-round",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1002,
         "isFeatured": false,
         "isFavorite": false,
@@ -28,14 +36,18 @@
             "longitude": -106.474448,
             "latitude": 39.187298
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "silversalmoncreek"
+        "description": "",
+        "imageName": "massive"
     },
     {
         "name": "Mount Harvard",
         "summitTrail": "Mount Harvard Trail",
-        "city": "Skagway",
+        "city": "Closest City: Buena Vista, Colorado",
         "elevation": "Elevation Gain: 4,475 ft",
+        "duration": "Duration: 8 hours 23 minutes",
+        "visit": "Best time to visit: June-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1003,
         "isFeatured": false,
         "isFavorite": true,
@@ -44,14 +56,18 @@
             "longitude": -106.320618,
             "latitude": 38.924328
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "chilkoottrail"
+        "description": "",
+        "imageName": "harvard"
     },
     {
         "name": "Blanca Peak",
         "summitTrail": "Blanca Peak",
-        "city": "Browning",
+        "city": "Closest City: Alamosa, Colorado",
         "elevation": "Elevation Gain: 6,640",
+        "duration": "Duration: 12 hours 31 minutes",
+        "visit": "Best time to visit: June-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1004,
         "isFeatured": true,
         "isFavorite": true,
@@ -60,14 +76,18 @@
             "longitude": -105.485443,
             "latitude": 37.577373
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "stmarylake"
+        "description": "",
+        "imageName": "blanca"
     },
     {
         "name": "La Plata Peak",
         "summitTrail": "La Plata Peak North Trail Summer Route",
-        "city": "Twin Lakes",
+        "city": "Closest City: Twin Lakes, Colorado",
         "elevation": "Elevation Gain: 4,730 ft",
+        "duration": "Duration: 7 hours 23 minutes",
+        "visit": "Best time to visit: June-August",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1005,
         "isFeatured": false,
         "isFavorite": false,
@@ -76,14 +96,18 @@
             "longitude": -106.473145,
             "latitude": 39.029251
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "twinlake"
+        "description": "",
+        "imageName": "laplata"
     },
     {
         "name": "Uncompahgre Peak",
         "summitTrail": "Uncompahgre Peak via Nellie Creek Road",
-        "city": "West Glacier",
+        "city": "Closest City: Lake City, Colorado",
         "elevation": "Elevation Gain: 2,841 ft",
+        "duration": "Duration: 5 hours 12 minutes",
+        "visit": "Best time to visit: April-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1006,
         "isFeatured": false,
         "isFavorite": false,
@@ -92,14 +116,18 @@
             "longitude": -107.462166,
             "latitude": 38.071507
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "lakemcdonald"
+        "description": "",
+        "imageName": "uncomp"
     },
     {
         "name": "Crestone Peak",
         "summitTrail": "Crestone Peak Trail",
-        "city": "Eaking",
+        "city": "Closest City: Crestone, Coloado",
         "elevation": "Elevation Gain: 5,741 ft",
+        "duration": "Duration: 9 hours 57 minutes",
+        "visit": "Best time to visit: June-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1007,
         "isFeatured": true,
         "isFavorite": false,
@@ -108,14 +136,18 @@
             "longitude": -105.585304,
             "latitude": 37.966972
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "charleyrivers"
+        "description": "",
+        "imageName": "crestone"
     },
     {
         "name": "Mount Lincoln",
         "summitTrail": "Mount Lincoln Trail via Kite Lake Trail",
-        "city": "Icy Bay",
+        "city": "Closest City: Climax, Colorado",
         "elevation": "Elevation Gain: 2,444 ft",
+        "duration": "Duration: 4 hours 10 minutes",
+        "visit": "Best time to visit: June-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1008,
         "isFeatured": false,
         "isFavorite": false,
@@ -124,14 +156,18 @@
             "longitude": -106.111404,
             "latitude": 39.351391
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "icybay"
+        "description": "",
+        "imageName": "lincoln"
     },
     {
         "name": "Grays Peak",
         "summitTrail": "Grays Peak",
-        "city": "Willow",
+        "city": "Closest City: Silver Plume",
         "elevation": "Elevation Gain: 3,005 ft",
+        "duration": "Duration: 5 hours 16 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 1",
         "id": 1009,
         "isFeatured": false,
         "isFavorite": false,
@@ -140,14 +176,18 @@
             "longitude": -105.817520,
             "latitude": 39.633820
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "rainbowlake"
+        "description": "",
+        "imageName": "grays"
     },
     {
         "name": "Castle Peak",
         "summitTrail": "Castle Peak and Conundrum Peak",
-        "city": "Newhalem",
+        "city": "Closest City: Apsen, Colorado",
         "elevation": "Elevation Gain: 4,990 ft",
+        "duration": "Duration: 8 hours 48 minutes",
+        "visit": "Best time to visit: March-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1010,
         "isFeatured": false,
         "isFavorite": false,
@@ -156,14 +196,18 @@
             "longitude": -106.86144,
             "latitude": 39.009647
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "hiddenlake"
+        "description": "",
+        "imageName": "castle"
     },
     {
         "name": "Quandary Peak",
         "summitTrail": "Quandary Peak Trail",
-        "city": "Chincoteague",
+        "city": "Closest City: Blue River, Colorado",
         "elevation": "Elevation Gain: 3,326 ft",
+        "duration": "Duration: 5 hours 25 minutes",
+        "visit": "Best time to visit: Year-round",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 1",
         "id": 1011,
         "isFeatured": false,
         "isFavorite": false,
@@ -172,14 +216,18 @@
             "longitude": -106.106430,
             "latitude": 39.397236
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "chincoteague"
+        "description": "",
+        "imageName": "quandary"
     },
     {
         "name": "Torreys Peak",
         "summitTrail": "Grays and Torreys Peak",
-        "city": "Errol",
+        "city": "Closest City: Idaho Springs, Colorado",
         "elevation": "Elevation Gain: 3,605 ft",
+        "duration": "Duration: 6 hours 9 minutes",
+        "visit": "Best time to visit: June-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1012,
         "isFeatured": false,
         "isFavorite": false,
@@ -188,14 +236,18 @@
             "longitude": -105.821259,
             "latitude": 39.642742
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "torreys"
     },
     {
         "name": "Mount Antero",
         "summitTrail": "Mount Antero Trail",
-        "city": "Errol",
+        "city": "Closest City: Nathrop, Colorado",
         "elevation": "Elevation Gain: 4,842",
+        "duration": "Duration: 9 hours 28 minutes",
+        "visit": "Best time to visit: March-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1013,
         "isFeatured": false,
         "isFavorite": false,
@@ -204,14 +256,18 @@
             "longitude": -106.246201,
             "latitude": 38.674088
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "antero"
     },
     {
         "name": "Mount Evans",
         "summitTrail": "Mount Evans and Mount Spalding Trail",
-        "city": "Errol",
+        "city": "Closest City: Georgetown, Colorado",
         "elevation": "Elevation Gain: 2,112 ft",
+        "duration": "Duration: 3 hours 44 minutes",
+        "visit": "Best time to visit: April-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1014,
         "isFeatured": false,
         "isFavorite": false,
@@ -220,14 +276,18 @@
             "longitude": -105.643333,
             "latitude": 39.588360
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "evans"
     },
     {
         "name": "Longs Peak",
         "summitTrail": "The Keyhole and Longs Peak via Longs Peak Trail",
-        "city": "Errol",
+        "city": "Closest City: Allenspark, Colorado",
         "elevation": "Elevation Gain: 4,960 ft",
+        "duration": "Duration: 9 hours 3 minutes",
+        "visit": "Best time to visit: April-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1015,
         "isFeatured": false,
         "isFavorite": false,
@@ -236,14 +296,18 @@
             "longitude": -105.615738,
             "latitude": 40.254902
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "longs"
     },
     {
         "name": "Mount Wilson",
         "summitTrail": "Mount Wilson via Rock of Ages Trail",
-        "city": "Errol",
+        "city": "Closest City: Placerville, Colorado",
         "elevation": "Elevation Gain: 3,745 ft",
+        "duration": "Duration: 6 hours 29 minutes",
+        "visit": "Best time to visit: Year-round",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1016,
         "isFeatured": false,
         "isFavorite": false,
@@ -252,14 +316,18 @@
             "longitude": -107.991570,
             "latitude": 37.839310
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "wilson"
     },
     {
         "name": "Mount Cameron",
         "summitTrail": "Mount Cameron",
-        "city": "Errol",
+        "city": "Closest City: Alma, Colorado",
         "elevation": "Elevation Gain: 2,185 ft",
+        "duration": "Duration: 3 hours 33 minutes",
+        "visit": "Best time to visit: May-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1017,
         "isFeatured": false,
         "isFavorite": false,
@@ -268,14 +336,18 @@
             "longitude": -106.118576,
             "latitude": 39.346844
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "cameron"
     },
     {
         "name": "Mount Shavano",
         "summitTrail": "Mount Shavano",
-        "city": "Errol",
+        "city": "Closest City: Salida, Colorado",
         "elevation": "Elevation Gain: 4,448 ft",
+        "duration": "Duration: 7 hours 23 minutes",
+        "visit": "Best time to visit: April-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1018,
         "isFeatured": false,
         "isFavorite": false,
@@ -284,14 +356,18 @@
             "longitude": -106.239296,
             "latitude": 38.619083
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "shavano"
     },
     {
         "name": "Mount Belford",
         "summitTrail": "Mount Belford",
-        "city": "Errol",
+        "city": "Closest City: Granite, Colorado",
         "elevation": "Elevation Gain: 4,517 ft",
+        "duration": "Duration: 7 hours 7 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1019,
         "isFeatured": false,
         "isFavorite": false,
@@ -300,14 +376,18 @@
             "longitude": -106.360832,
             "latitude": 38.960575
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "belford"
     },
     {
         "name": "Mount Princeton",
         "summitTrail": "Mount Princeton Trail",
-        "city": "Errol",
+        "city": "Closest City: Nathrop, Colorado",
         "elevation": "Elevation Gain: 3,339 ft",
+        "duration": "Duration: 5 hours 32 minutes",
+        "visit": "Best time to visit: April-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1020,
         "isFeatured": false,
         "isFavorite": false,
@@ -316,14 +396,18 @@
             "longitude": -106.242432,
             "latitude": 38.749062
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "princeton"
     },
     {
         "name": "Mount Yale",
         "summitTrail": "Mount Yale Summit Trail",
-        "city": "Errol",
+        "city": "Closest City: Buena Vista, Colorado",
         "elevation": "Elevation Gain: 4,238 ft",
+        "duration": "Duration: 7 hours 24 minutes",
+        "visit": "Best time to visit: July-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1021,
         "isFeatured": false,
         "isFavorite": false,
@@ -332,14 +416,18 @@
             "longitude": -106.313965,
             "latitude": 38.844051
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "yale"
     },
     {
         "name": "Crestone Needle",
         "summitTrail": "Crestone Needle Trail",
-        "city": "Errol",
+        "city": "Closest City: Crestone, Colorado",
         "elevation": "Elevation Gain: 4,320 ft",
+        "duration": "Duration: 7 hours 46 minutes",
+        "visit": "Best time to visit: Year-round",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 4",
         "id": 1022,
         "isFeatured": false,
         "isFavorite": false,
@@ -348,14 +436,18 @@
             "longitude": -105.576683,
             "latitude": 37.964737
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "crestoneneedle"
     },
     {
         "name": "Mount Bross",
         "summitTrail": "The Decalibron",
-        "city": "Errol",
+        "city": "Closest City: Alma, Colorado",
         "elevation": "Elevation Gain: 3,136 ft",
+        "duration": "Duration: 5 hours 20 minutes",
+        "visit": "Best time to visit: June-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1023,
         "isFeatured": false,
         "isFavorite": false,
@@ -364,14 +456,18 @@
             "longitude": -106.107376,
             "latitude": 39.335060
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "bross"
     },
     {
         "name": "El Diente Peak",
         "summitTrail": "El Diente Peak",
-        "city": "Errol",
+        "city": "Closest City: Rico, Colorado",
         "elevation": "Elevation Gain: 4,202 ft",
+        "duration": "Duration: 7 hours 39 minutes",
+        "visit": "Best time to visit: May-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1024,
         "isFeatured": false,
         "isFavorite": false,
@@ -380,14 +476,18 @@
             "longitude": -108.005219,
             "latitude": 37.839275
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "eldiente"
     },
     {
         "name": "Kit Carson Peak",
-        "summitTrail": "El Diente Peak",
-        "city": "Errol",
+        "summitTrail": "Kit Carson Mountain via Willow Lake Trail",
+        "city": "Closest City: Westcliffe, Colorado",
         "elevation": "Elevation Gain: 6,289 ft",
+        "duration": "Duration: 10 hours 11 minutes",
+        "visit": "Best time to visit: July-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1025,
         "isFeatured": false,
         "isFavorite": false,
@@ -396,14 +496,18 @@
             "longitude": -108.005219,
             "latitude": 37.839275
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "kitcarson"
     },
     {
         "name": "Maroon Peak",
         "summitTrail": "Maroon Peak Trail",
-        "city": "Errol",
+        "city": "Closest City: Aspen, Colorado",
         "elevation": "Elevation Gain: 4,950 ft",
+        "duration": "Duration: 8 hours 22 minutes",
+        "visit": "Best time to visit: March-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1026,
         "isFeatured": false,
         "isFavorite": false,
@@ -412,14 +516,18 @@
             "longitude": -106.989113,
             "latitude": 39.07013
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "maroon"
     },
     {
         "name": "Mount Oxford",
         "summitTrail": "Mount Oxford and Belford",
-        "city": "Errol",
+        "city": "Closest City: Granite, Colorado",
         "elevation": "Elevation Gain: 5,734 ft",
+        "duration": "Duration: 9 hours 40 minutes",
+        "visit": "Best time to visit: March-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1027,
         "isFeatured": false,
         "isFavorite": false,
@@ -428,14 +536,18 @@
             "longitude": -106.338432,
             "latitude": 38.964680
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "oxford"
     },
     {
         "name": "Tabeguache Peak",
         "summitTrail": "Tabeguache Peak via Mount Shavano",
-        "city": "Errol",
+        "city": "Closest City: Salida, Colorado",
         "elevation": "Elevation Gain: 5,600 ft",
+        "duration": "Duration: 8 hours 23 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1028,
         "isFeatured": false,
         "isFavorite": false,
@@ -444,14 +556,18 @@
             "longitude": -106.239296,
             "latitude": 38.619083
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "tabe"
     },
     {
         "name": "Mount Sneffels",
         "summitTrail": "Sneffles Mountaineering Route via Yankee Boy Basin",
-        "city": "Errol",
+        "city": "Closest City: Telluride, Colorado",
         "elevation": "Elevation Gain: 2,749 ft",
+        "duration": "Duration: 4 hours 29 minutes",
+        "visit": "Best time to visit: June-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1029,
         "isFeatured": false,
         "isFavorite": false,
@@ -460,14 +576,18 @@
             "longitude": -107.792229,
             "latitude": 38.003605
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "sneffels"
     },
     {
         "name": "Mount Democrat",
         "summitTrail": "Mount Democrat Via Kite Late Trail",
-        "city": "Errol",
+        "city": "Closest City: Alma, Colorado",
         "elevation": "Elevation Gain: 2,047 ft",
+        "duration": "Duration: 3 hours 16 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1030,
         "isFeatured": false,
         "isFavorite": false,
@@ -476,30 +596,38 @@
             "longitude": -106.139946,
             "latitude": 39.339542
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "democrat"
     },
     {
         "name": "Capitol Peak",
         "summitTrail": "Capitol Peak",
-        "city": "Errol",
-        "elevation": "Elevation Gain: 5,300 ft",
+        "city": "Closest City: Snowmass Village, Colorado",
+        "elevation": "Elevation Gain: 5,029 ft",
+        "duration": "Duration: 9 hours 38 minutes",
+        "visit": "Best time to visit: July-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 4",
         "id": 1031,
         "isFeatured": false,
         "isFavorite": false,
-        "length": "Length: 17 mi",
+        "length": "Length: 15.1 mi",
         "coordinates": {
             "longitude": -107.083221,
             "latitude": 39.150166
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "capitol"
     },
     {
         "name": "Pikes Peak",
         "summitTrail": "Pikes Peak via Barr Trail",
-        "city": "Errol",
+        "city": "Closest City: Manitou Springs, Colorado",
         "elevation": "Elevation Gain: 7,434 ft",
+        "duration": "Duration: 15 hours 0 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 1",
         "id": 1032,
         "isFeatured": false,
         "isFavorite": false,
@@ -508,14 +636,18 @@
             "longitude": -105.044357,
             "latitude": 38.840542
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "pikes"
     },
     {
         "name": "Snowmass Mountain",
         "summitTrail": "Snowmass Lake and Mountain via Snowmass Trail",
-        "city": "Errol",
+        "city": "Closest City: Snowmass Village, Colorado",
         "elevation": "Elevation Gain: 6,213 ft",
+        "duration": "Duration: 12 hours 22 minutes",
+        "visit": "Best time to visit: June-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1033,
         "isFeatured": false,
         "isFavorite": false,
@@ -524,14 +656,18 @@
             "longitude": -107.066528,
             "latitude": 39.118809
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "snowmass"
     },
     {
         "name": "Windom Peak",
         "summitTrail": "Windom Peak via Needle Creek",
-        "city": "Errol",
+        "city": "Closest City: Silverton, Colorado",
         "elevation": "Elevation Gain: 5,879 ft",
+        "duration": "Duration: 11 hours 17 minutes",
+        "visit": "Best time to visit: May-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1034,
         "isFeatured": false,
         "isFavorite": false,
@@ -540,14 +676,18 @@
             "longitude": -107.591774,
             "latitude": 37.621235
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "windom"
     },
     {
         "name": "Mount Eolus",
         "summitTrail": "Chicago Basin to Mount Eolus",
-        "city": "Errol",
+        "city": "Closest City: Silverton, Colorado",
         "elevation": "Elevation Gain: 5,826 ft",
+        "duration": "Duration: 11 hours 9 minutes",
+        "visit": "Best time to visit: June-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1035,
         "isFeatured": false,
         "isFavorite": false,
@@ -556,14 +696,18 @@
             "longitude": -107.622498,
             "latitude": 37.621948
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "eolus"
     },
     {
         "name": "Challenger Point",
         "summitTrail": "Challenger Point",
-        "city": "Errol",
+        "city": "Closest City: Crestone, Colorado",
         "elevation": "Elevation Gain: 5,298 ft",
+        "duration": "Duration: 8 hours 58 minutes",
+        "visit": "Best time to visit: June-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1036,
         "isFeatured": false,
         "isFavorite": false,
@@ -572,14 +716,18 @@
             "longitude": -105.606766,
             "latitude": 37.980267
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "challenger"
     },
     {
         "name": "Mount Columbia",
         "summitTrail": "Mount Columbia via Horn Fork Basin Trail",
-        "city": "Errol",
+        "city": "Closest City: Buena Vista, Colorado",
         "elevation": "Elevation Gain: 4,166 ft",
+        "duration": "Duration: 7 hours 50 minutes",
+        "visit": "Best time to visit: June-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1037,
         "isFeatured": false,
         "isFavorite": false,
@@ -588,14 +736,18 @@
             "longitude": -106.297485,
             "latitude": 38.903957
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "columbia"
     },
     {
         "name": "Missouri Mountain",
         "summitTrail": "Missouri Mountain Trail",
-        "city": "Errol",
+        "city": "Closest City: Granite, Colorado",
         "elevation": "Elevation Gain: 4,504 ft",
+        "duration": "Duration: 7 hours 54 minutes",
+        "visit": "Best time to visit: March-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1038,
         "isFeatured": false,
         "isFavorite": false,
@@ -604,14 +756,18 @@
             "longitude": -106.378471,
             "latitude": 38.947559
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "missouri"
     },
     {
         "name": "Humboldt Peak",
         "summitTrail": "Humboldt Peak Trail",
-        "city": "Errol",
+        "city": "Closest City: Westcliffe, Colorado",
         "elevation": "Elevation Gain: 4,222 ft",
+        "duration": "Duration: 7 hours 32 minutes",
+        "visit": "Best time to visit: March-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1039,
         "isFeatured": false,
         "isFavorite": false,
@@ -620,14 +776,18 @@
             "longitude": -105.555351,
             "latitude": 37.976105
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "humbolt"
     },
     {
         "name": "Mount Bierstadt",
         "summitTrail": "Mount Bierstadt Trail",
-        "city": "Errol",
+        "city": "Closest City: Idaho Springs, Colorado",
         "elevation": "Elevation Gain: 2,765 ft",
+        "duration": "Duration: 5 hours 10 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1040,
         "isFeatured": false,
         "isFavorite": false,
@@ -636,14 +796,18 @@
             "longitude": -105.668610,
             "latitude": 39.582638
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "bierstadt"
     },
     {
         "name": "Sunlight Peak",
         "summitTrail": "Sunlight Peak via Needle Creek Trail",
-        "city": "Errol",
+        "city": "Closest City: Durango, Colorado",
         "elevation": "Elevation Gain: 5,875 ft",
+        "duration": "Duration: 11 hours 10 minutes",
+        "visit": "Best time to visit: May-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 4",
         "id": 1041,
         "isFeatured": false,
         "isFavorite": false,
@@ -652,14 +816,18 @@
             "longitude": -107.595894,
             "latitude": 37.627285
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "sunlight"
     },
     {
         "name": "Handies Peak",
         "summitTrail": "Handies Peak",
-        "city": "Errol",
+        "city": "Closest City: Silverthorn, Colorado",
         "elevation": "Elevation Gain: 2,440 ft",
+        "duration": "Duration: 4 hours 6 minutes",
+        "visit": "Best time to visit: Year-round",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 1",
         "id": 1042,
         "isFeatured": false,
         "isFavorite": false,
@@ -668,14 +836,18 @@
             "longitude": -107.504478,
             "latitude": 37.913021
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "handies"
     },
     {
         "name": "Ellingwood Point",
         "summitTrail": "Ellingwood Point via Lake Como Road",
-        "city": "Errol",
+        "city": "Closest City: Mosca, Colorado",
         "elevation": "Elevation Gain: 6,374 ft",
+        "duration": "Duration: 12 hours 1 minutes",
+        "visit": "Best time to visit: March-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1043,
         "isFeatured": false,
         "isFavorite": false,
@@ -684,14 +856,18 @@
             "longitude": -105.492569,
             "latitude": 37.582508
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "ellingwood"
     },
     {
         "name": "Mount Lindsey",
         "summitTrail": "Mount Lindsey Trail [CLOSED]",
-        "city": "Errol",
+        "city": "Closest City: Alamosa, Colorado",
         "elevation": "Elevation Gain: 3,654 ft",
+        "duration": "Duration: 5 hours 30 minutes",
+        "visit": "Best time to visit: May-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1044,
         "isFeatured": false,
         "isFavorite": false,
@@ -700,14 +876,18 @@
             "longitude": -105.444763,
             "latitude": 37.583801
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "lindsey"
     },
     {
         "name": "Culebra Peak",
         "summitTrail": "Culebra Peak Trail",
-        "city": "Errol",
+        "city": "Closest City: San Luis, Colorado",
         "elevation": "Elevation Gain: 2,624 ft",
+        "duration": "Duration: 4 hours 5 minutes",
+        "visit": "Best time to visit: May-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1045,
         "isFeatured": false,
         "isFavorite": false,
@@ -716,14 +896,18 @@
             "longitude": -105.185593,
             "latitude": 37.122173
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "culebra"
     },
     {
         "name": "Mount Sherman",
         "summitTrail": "Mount Sherman via Four Mile Creek Road",
-        "city": "Errol",
+        "city": "Closest City: Leadville, Colorado",
         "elevation": "Elevation Gain: 2,027 ft",
+        "duration": "Duration: 3 hours 35 minutes",
+        "visit": "Best time to visit: March-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1046,
         "isFeatured": false,
         "isFavorite": false,
@@ -732,14 +916,18 @@
             "longitude": -106.169945,
             "latitude": 39.225006
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "sherman"
     },
     {
         "name": "North Eolus",
         "summitTrail": "North Eolus via Chicahgo Basin Trail",
-        "city": "Errol",
+        "city": "Closest City: Silverton, Colorado",
         "elevation": "Elevation Gain: 5,900 ft",
+        "duration": "Duration: 11 hours 30 minutes",
+        "visit": "Best time to visit: July-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1047,
         "isFeatured": false,
         "isFavorite": false,
@@ -748,14 +936,18 @@
             "longitude": -107.625416,
             "latitude": 37.625416
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "northeolus"
     },
     {
         "name": "Little Bear Peak",
         "summitTrail": "Little Bear Peak",
-        "city": "Errol",
+        "city": "Closest City: Blanca, Colorado",
         "elevation": "Elevation Gain: 6,387 ft",
+        "duration": "Duration: 11 hours 46 minutes",
+        "visit": "Best time to visit: June-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 4",
         "id": 1048,
         "isFeatured": false,
         "isFavorite": false,
@@ -764,14 +956,18 @@
             "longitude": -105.497162,
             "latitude": 37.566624
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "littlebear"
     },
     {
         "name": "Redcloud Peak",
         "summitTrail": "Readcloud Peak Peak",
-        "city": "Errol",
+        "city": "Closest City: Lake City, Colorado",
         "elevation": "Elevation Gain: 3,648 ft",
+        "duration": "Duration: 6 hours 23 minutes",
+        "visit": "Best time to visit: March-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1049,
         "isFeatured": false,
         "isFavorite": false,
@@ -780,14 +976,18 @@
             "longitude": -107.421654,
             "latitude": 37.940880
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "redcloud"
     },
     {
         "name": "Conundrum Peak",
         "summitTrail": "Conudrum Peak and Castle Peak",
-        "city": "Errol",
+        "city": "Closest City: Aspen, Colorado",
         "elevation": "Elevation Gain: 4,990 ft",
+        "duration": "Duration: 8 hours 48 minutes",
+        "visit": "Best time to visit: March-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1050,
         "isFeatured": false,
         "isFavorite": false,
@@ -796,14 +996,18 @@
             "longitude": -106.86294,
             "latitude": 39.01563
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "conundrum"
     },
     {
         "name": "Pyramid Peak",
         "summitTrail": "Pyramid Peak Trail",
-        "city": "Errol",
+        "city": "Closest City: Aspen, Colorado",
         "elevation": "Elevation Gain: 4,366 ft",
+        "duration": "Duration: 6 hours 45 minutes",
+        "visit": "Best time to visit: May-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 4",
         "id": 1051,
         "isFeatured": false,
         "isFavorite": false,
@@ -812,30 +1016,38 @@
             "longitude": -106.950188,
             "latitude": 39.071545
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "pyramid"
     },
     {
-        "name": "Saint Luis Peak",
-        "summitTrail": "Saint Luis Summit",
-        "city": "Errol",
-        "elevation": "Elevation Gain: 3,490 ft",
+        "name": "San Luis Peak",
+        "summitTrail": "San Luis Peak via Stewart Creek Trail",
+        "city": "Closest City: Creede, Colorado",
+        "elevation": "Elevation Gain: 3,454 ft",
+        "duration": "Duration: 7 hours 15 minutes",
+        "visit": "Best time to visit: June-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 1",
         "id": 1052,
         "isFeatured": false,
         "isFavorite": false,
-        "length": "Length: 11.2 mi",
+        "length": "Length: 12.6 mi",
         "coordinates": {
             "longitude": -106.931389,
             "latitude": 37.986897
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "sanluis"
     },
     {
         "name": "North Maroon Peak",
         "summitTrail": "North Maroon Peak",
-        "city": "Errol",
+        "city": "Closest City: Aspen, Colorado",
         "elevation": "Elevation Gain: 4,560 ft",
+        "duration": "Duration: 7 hours 8 minutes",
+        "visit": "Best time to visit: June-November",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 4",
         "id": 1053,
         "isFeatured": false,
         "isFavorite": false,
@@ -844,14 +1056,18 @@
             "longitude": -106.987267,
             "latitude": 39.076077
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "northmaroon"
     },
     {
         "name": "Wetterhorn Peak",
         "summitTrail": "Wetterhorn Peak via Ridge Stock Driveway Trail",
-        "city": "Errol",
+        "city": "Closest City: Lake City, Colorado",
         "elevation": "Elevation Gain: 3,671 ft",
+        "duration": "Duration: 6 hours 45 minutes",
+        "visit": "Best time to visit: June-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1054,
         "isFeatured": false,
         "isFavorite": false,
@@ -860,14 +1076,18 @@
             "longitude": -107.510834,
             "latitude": 38.060593
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "wetterhorn"
     },
     {
         "name": "Wilson Peak",
         "summitTrail": "Wilson Peak via Rock of Ages Trail",
-        "city": "Errol",
+        "city": "Closest City: Placerville, Colorado",
         "elevation": "Elevation Gain: 3,658 ft",
+        "duration": "Duration: 6 hours 29 minutes",
+        "visit": "Best time to visit: Year-round",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 3",
         "id": 1055,
         "isFeatured": false,
         "isFavorite": false,
@@ -876,14 +1096,18 @@
             "longitude": -107.984795,
             "latitude": 37.859913
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "wilsonpeak"
     },
     {
         "name": "Mount of the Holy Cross",
         "summitTrail": "Mount of the Holy Cross Trail",
-        "city": "Errol",
+        "city": "Closest City: Red Cliff, Colorado",
         "elevation": "Elevation Gain: 5,531 ft",
+        "duration": "Duration: 9 hours 12 minutes",
+        "visit": "Best time to visit: February-October",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1056,
         "isFeatured": false,
         "isFavorite": false,
@@ -892,14 +1116,18 @@
             "longitude": -106.481766,
             "latitude": 39.466713
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "holycross"
     },
     {
         "name": "Huron Peak",
         "summitTrail": "Huron Peak via North Huron Trail",
-        "city": "Errol",
+        "city": "Closest City: Buena Vista, Colorado",
         "elevation": "Elevation Gain: 3,418 ft",
+        "duration": "Duration: 5 hours 31 minutes",
+        "visit": "Best time to visit: May-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1057,
         "isFeatured": false,
         "isFavorite": false,
@@ -908,14 +1136,18 @@
             "longitude": -106.438126,
             "latitude": 38.945423
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "huron"
     },
     {
         "name": "Suneshine Peak",
         "summitTrail": "Sunshine Peak via Redcloud Peak",
-        "city": "Errol",
+        "city": "Closest City: Silverton, Colorado",
         "elevation": "Elevation Gain: 4,553 ft",
+        "duration": "Duration: 8 hours 16 minutes",
+        "visit": "Best time to visit: July-September",
+        "type": "Route type: Out & back",
+        "difficulty": "Class: 2",
         "id": 1058,
         "isFeatured": false,
         "isFavorite": false,
@@ -924,8 +1156,8 @@
             "longitude": -107.425606,
             "latitude": 37.922604
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
-        "imageName": "umbagog"
+        "description": "",
+        "imageName": "sunshine"
     }
 ]
 

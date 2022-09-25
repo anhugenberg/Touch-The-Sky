@@ -16,6 +16,11 @@ struct Peak: Hashable, Codable, Identifiable {
     var elevation: String
     var description: String
     var summitTrail: String
+    var city: String
+    var duration: String
+    var visit: String
+    var type: String
+    var difficulty: String
 
     private var imageName: String
     var image: Image {

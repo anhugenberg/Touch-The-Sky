@@ -21,20 +21,23 @@ struct PeakDetail: View {
                         .font(.title2)
                 }
                 .padding(.bottom)
-
-                HStack {
+                Group{
                     Text(landmark.length)
-                    Spacer()
+                    Divider()
                     Text(landmark.elevation)
+                    Divider()
+                    Text(landmark.duration)
+                    Divider()
+                    Text(landmark.type)
+                    Divider()
+                    Text(landmark.difficulty)
                 }
-                .font(.subheadline)
-                .foregroundColor(.secondary)
-
-                Divider()
-
-                Text("Description:")
-                    .font(.title2)
-                Text(landmark.description)
+                Group{
+                    Divider()
+                    Text(landmark.visit)
+                    Divider()
+                    Text(landmark.city)
+                }
             }
             .padding()
         }
@@ -48,3 +51,15 @@ struct PeakDetail_Previews: PreviewProvider {
         PeakDetail(landmark: peaks[0])
     }
 }
+
+//                HStack {
+//                    Text(landmark.length)
+//                    Spacer()
+//                    Text(landmark.elevation)
+//                }
+                //.font(.subheadline)
+                //.foregroundColor(.secondary)
+
+//.font(.title2)
+
+                
