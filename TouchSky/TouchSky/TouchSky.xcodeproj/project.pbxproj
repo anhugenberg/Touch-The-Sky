@@ -18,6 +18,10 @@
 		8E1623E128D9226500D5F72E /* Peak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1623E028D9226500D5F72E /* Peak.swift */; };
 		8E1623E328D923E500D5F72E /* peakData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E1623E228D923E500D5F72E /* peakData.json */; };
 		8E1623E528D923FC00D5F72E /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1623E428D923FC00D5F72E /* ModelData.swift */; };
+		8EE95F2028E254B1008CF500 /* SlidingTabView in Frameworks */ = {isa = PBXBuildFile; productRef = 8EE95F1F28E254B1008CF500 /* SlidingTabView */; };
+		8EE95F2228E255BA008CF500 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE95F2128E255BA008CF500 /* Home.swift */; };
+		8EE95F2428E25D7E008CF500 /* ListTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE95F2328E25D7E008CF500 /* ListTab.swift */; };
+		8EE95F2628E25E49008CF500 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE95F2528E25E49008CF500 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +37,9 @@
 		8E1623E028D9226500D5F72E /* Peak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Peak.swift; sourceTree = "<group>"; };
 		8E1623E228D923E500D5F72E /* peakData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = peakData.json; sourceTree = "<group>"; };
 		8E1623E428D923FC00D5F72E /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		8EE95F2128E255BA008CF500 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		8EE95F2328E25D7E008CF500 /* ListTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTab.swift; sourceTree = "<group>"; };
+		8EE95F2528E25E49008CF500 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +47,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EE95F2028E254B1008CF500 /* SlidingTabView in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -87,7 +95,10 @@
 			isa = PBXGroup;
 			children = (
 				8E1623CC28D9217900D5F72E /* ContentView.swift */,
+				8EE95F2528E25E49008CF500 /* MapView.swift */,
 				8E1623D828D921C400D5F72E /* PeakList.swift */,
+				8EE95F2328E25D7E008CF500 /* ListTab.swift */,
+				8EE95F2128E255BA008CF500 /* Home.swift */,
 				8E1623DA28D921E300D5F72E /* PeakDetail.swift */,
 				8E1623DC28D9220100D5F72E /* PeakRow.swift */,
 				8E1623DE28D9222500D5F72E /* RectangleImage.swift */,
@@ -128,6 +139,9 @@
 			dependencies = (
 			);
 			name = TouchSky;
+			packageProductDependencies = (
+				8EE95F1F28E254B1008CF500 /* SlidingTabView */,
+			);
 			productName = TouchSky;
 			productReference = 8E1623C728D9217900D5F72E /* TouchSky.app */;
 			productType = "com.apple.product-type.application";
@@ -156,6 +170,9 @@
 				Base,
 			);
 			mainGroup = 8E1623BE28D9217900D5F72E;
+			packageReferences = (
+				8EE95F1E28E254B1008CF500 /* XCRemoteSwiftPackageReference "SlidingTabView" */,
+			);
 			productRefGroup = 8E1623C828D9217900D5F72E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -186,7 +203,10 @@
 				8E1623D928D921C400D5F72E /* PeakList.swift in Sources */,
 				8E1623DF28D9222500D5F72E /* RectangleImage.swift in Sources */,
 				8E1623CD28D9217900D5F72E /* ContentView.swift in Sources */,
+				8EE95F2628E25E49008CF500 /* MapView.swift in Sources */,
 				8E1623E128D9226500D5F72E /* Peak.swift in Sources */,
+				8EE95F2228E255BA008CF500 /* Home.swift in Sources */,
+				8EE95F2428E25D7E008CF500 /* ListTab.swift in Sources */,
 				8E1623DD28D9220100D5F72E /* PeakRow.swift in Sources */,
 				8E1623E528D923FC00D5F72E /* ModelData.swift in Sources */,
 				8E1623CB28D9217900D5F72E /* TouchSkyApp.swift in Sources */,
@@ -389,6 +409,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8EE95F1E28E254B1008CF500 /* XCRemoteSwiftPackageReference "SlidingTabView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/QuynhNguyen/SlidingTabView";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8EE95F1F28E254B1008CF500 /* SlidingTabView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8EE95F1E28E254B1008CF500 /* XCRemoteSwiftPackageReference "SlidingTabView" */;
+			productName = SlidingTabView;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8E1623BF28D9217900D5F72E /* Project object */;
 }

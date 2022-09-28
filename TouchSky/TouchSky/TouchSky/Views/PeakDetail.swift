@@ -8,47 +8,47 @@
 import SwiftUI
 
 struct PeakDetail: View {
-    var landmark: Peak
+    var peak: Peak
 
     var body: some View {
         ScrollView {
             
-            RectangleImage(image: landmark.image)
+            RectangleImage(image: peak.image)
 
             VStack(alignment: .leading) {
                 HStack{
-                    Text(landmark.summitTrail)
+                    Text(peak.summitTrail)
                         .font(.title2)
                 }
                 .padding(.bottom)
                 Group{
-                    Text(landmark.length)
+                    Text(peak.length)
                     Divider()
-                    Text(landmark.elevation)
+                    Text(peak.elevation)
                     Divider()
-                    Text(landmark.duration)
+                    Text(peak.duration)
                     Divider()
-                    Text(landmark.type)
+                    Text(peak.type)
                     Divider()
-                    Text(landmark.difficulty)
+                    Text(peak.difficulty)
                 }
                 Group{
                     Divider()
-                    Text(landmark.visit)
+                    Text(peak.visit)
                     Divider()
-                    Text(landmark.city)
+                    Text(peak.city)
                 }
             }
             .padding()
         }
-        .navigationTitle(landmark.name)
+        .navigationTitle(peak.name)
         .navigationBarTitleDisplayMode(.inline)
     }
 }
 
 struct PeakDetail_Previews: PreviewProvider {
     static var previews: some View {
-        PeakDetail(landmark: peaks[0])
+        PeakDetail(peak: peaks[0])
     }
 }
 

@@ -12,7 +12,7 @@ struct PeakList: View {
         NavigationView {
             List(peaks) { landmark in
                 NavigationLink {
-                    PeakDetail(landmark: landmark)
+                    PeakDetail(peak: landmark)
                 } label: {
                     PeakRow(peak: landmark)
                 }
