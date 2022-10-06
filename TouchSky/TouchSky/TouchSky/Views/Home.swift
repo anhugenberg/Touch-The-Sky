@@ -9,7 +9,44 @@ import SwiftUI
 
 struct Home: View {
     var body: some View {
-        Text("Home")
+        NavigationView {
+            VStack{
+                VStack{
+                    Text("Touch")
+                        .font(.custom("Quicksand", size: 60))
+                    Text("the")
+                        .font(.custom("Quicksand", size: 40))
+                    Text("Sky")
+                        .font(.custom("Quicksand", size: 60))
+                    Spacer()
+                }
+                .foregroundColor(.white)
+                .padding(.top, 150)
+                List{
+                    NavigationLink {
+                        MapView()
+                    } label: {
+                        Image(systemName: "mappin.circle")
+                        Text("View Map")
+                    }
+                    NavigationLink {
+                        ListTab()
+                    } label: {
+                        Image(systemName: "list.bullet")
+                        Text("View List")
+                    }
+                }
+                .scrollContentBackground(.hidden)
+                .padding(.top, 150)
+                .padding(.bottom, 80)
+            }
+            .background(
+                    Image("homeimg")
+                        .resizable()
+                        .scaledToFill()
+                        .edgesIgnoringSafeArea(.all)
+                )
+        }
     }
 }
 

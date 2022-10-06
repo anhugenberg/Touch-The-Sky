@@ -9,6 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     @State private var tabIndex = 0
+    init() {
+    UITabBar.appearance().backgroundColor = UIColor.white
+    }
     var body: some View {
         TabView{
             Home()
@@ -27,7 +30,7 @@ struct ContentView: View {
                     Text("List")
                 }
         }
-        
+        .accentColor(.black)
     }
 }
 

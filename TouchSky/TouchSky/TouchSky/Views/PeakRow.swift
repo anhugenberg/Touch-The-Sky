@@ -16,7 +16,6 @@ struct PeakRow: View {
                 .resizable()
                 .frame(width: 50, height: 50)
             Text(peak.name)
-
             Spacer()
         }
     }
