@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  HomeView.swift
 //  TouchSky
 //
 //  Created by Alexa Nicole Hugenberg on 9/19/22.
@@ -7,8 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
-    @State private var tabIndex = 0
+struct HomeView: View {
     init() {
     UITabBar.appearance().backgroundColor = UIColor.white
     }
@@ -36,7 +35,7 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        HomeView()
     }
 }
 

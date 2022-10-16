@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8E1623CB28D9217900D5F72E /* TouchSkyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1623CA28D9217900D5F72E /* TouchSkyApp.swift */; };
-		8E1623CD28D9217900D5F72E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1623CC28D9217900D5F72E /* ContentView.swift */; };
+		8E1623CD28D9217900D5F72E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1623CC28D9217900D5F72E /* HomeView.swift */; };
 		8E1623CF28D9217A00D5F72E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E1623CE28D9217A00D5F72E /* Assets.xcassets */; };
 		8E1623D228D9217A00D5F72E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E1623D128D9217A00D5F72E /* Preview Assets.xcassets */; };
 		8E1623D928D921C400D5F72E /* PeakList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1623D828D921C400D5F72E /* PeakList.swift */; };
@@ -28,7 +28,7 @@
 /* Begin PBXFileReference section */
 		8E1623C728D9217900D5F72E /* TouchSky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TouchSky.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E1623CA28D9217900D5F72E /* TouchSkyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchSkyApp.swift; sourceTree = "<group>"; };
-		8E1623CC28D9217900D5F72E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8E1623CC28D9217900D5F72E /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		8E1623CE28D9217A00D5F72E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E1623D128D9217A00D5F72E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E1623D828D921C400D5F72E /* PeakList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakList.swift; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 		8E1623E628D9251A00D5F72E /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				8E1623CC28D9217900D5F72E /* ContentView.swift */,
+				8E1623CC28D9217900D5F72E /* HomeView.swift */,
 				8EE95F2528E25E49008CF500 /* MapView.swift */,
 				8E1623D828D921C400D5F72E /* PeakList.swift */,
 				8EE95F2328E25D7E008CF500 /* ListTab.swift */,
@@ -208,7 +208,7 @@
 			files = (
 				8E1623D928D921C400D5F72E /* PeakList.swift in Sources */,
 				8E1623DF28D9222500D5F72E /* RectangleImage.swift in Sources */,
-				8E1623CD28D9217900D5F72E /* ContentView.swift in Sources */,
+				8E1623CD28D9217900D5F72E /* HomeView.swift in Sources */,
 				8EE95F2628E25E49008CF500 /* MapView.swift in Sources */,
 				8E1623E128D9226500D5F72E /* Peak.swift in Sources */,
 				8EE95F2228E255BA008CF500 /* Home.swift in Sources */,
