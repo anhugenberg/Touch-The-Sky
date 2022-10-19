@@ -16,15 +16,23 @@ struct MapView: View {
     )
     
     var body: some View {
-        ZStack{
-            Map(coordinateRegion: $mapRegion)
-                .ignoresSafeArea()
-        }
+        NavigationView {
+              Map(coordinateRegion: $mapRegion, annotationItems: peaks) { place in
+                MapAnnotation(coordinate: place.locationCoordinate) {
+                  NavigationLink {
+                      PeakDetail(peak: place)
+                  } label: {
+                      PeakAnnotationView(title: place.name)
+                  }
+                }
+              }
+              .ignoresSafeArea()
     }
 }
-
-struct MapView_Previews: PreviewProvider {
-    static var previews: some View {
-        MapView()
+    
+    struct MapView_Previews: PreviewProvider {
+        static var previews: some View {
+            MapView()
+        }
     }
 }
