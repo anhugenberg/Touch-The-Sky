@@ -1,5 +1,5 @@
 //
-//  PeakList.swift
+//  AllList.swift
 //  TouchSky
 //
 //  Created by Alexa Nicole Hugenberg on 9/19/22.
@@ -7,14 +7,15 @@
 
 import SwiftUI
 
-struct PeakList: View {
+struct AllList: View {
+    @EnvironmentObject var modelData: ModelData
     var body: some View {
         NavigationView {
-            List(peaks) { landmark in
+            List(modelData.peaks) { peak in
                 NavigationLink {
-                    PeakDetail(peak: landmark)
+                    PeakDetail(peak: peak)
                 } label: {
-                    PeakRow(peak: landmark)
+                    PeakRow(peak: peak)
                 }
             }
             .navigationTitle("All")
@@ -25,9 +26,10 @@ struct PeakList: View {
 struct LandmarkList_Previews: PreviewProvider {
     static var previews: some View {
         ForEach(["iPhone SE (2nd generation)", "iPhone XS Max"], id: \.self) { deviceName in
-            PeakList()
+            AllList()
                 .previewDevice(PreviewDevice(rawValue: deviceName))
                 .previewDisplayName(deviceName)
+                .environmentObject(ModelData())
         }
     }
 }

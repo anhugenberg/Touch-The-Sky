@@ -8,7 +8,12 @@
 import SwiftUI
 
 struct PeakDetail: View {
+    @EnvironmentObject var modelData: ModelData
     var peak: Peak
+    
+    var peakIndex: Int {
+        modelData.peaks.firstIndex(where: { $0.id == peak.id })!
+    }
 
     var body: some View {
         ScrollView {
@@ -19,6 +24,8 @@ struct PeakDetail: View {
                 HStack{
                     Text(peak.summitTrail)
                         .font(.title2)
+                    ToDoButton(isSet: $modelData.peaks[peakIndex].isToDo)
+                    CompletedButton(isSet: $modelData.peaks[peakIndex].isCompleted)
                 }
                 .padding(.bottom)
                 Group{
@@ -47,19 +54,11 @@ struct PeakDetail: View {
 }
 
 struct PeakDetail_Previews: PreviewProvider {
+    static let modelData = ModelData()
+    
     static var previews: some View {
-        PeakDetail(peak: peaks[0])
+        PeakDetail(peak: modelData.peaks[0])
+            .environmentObject(modelData)
     }
 }
-
-//                HStack {
-//                    Text(landmark.length)
-//                    Spacer()
-//                    Text(landmark.elevation)
-//                }
-                //.font(.subheadline)
-                //.foregroundColor(.secondary)
-
-//.font(.title2)
-
                 

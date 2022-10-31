@@ -15,11 +15,11 @@ struct ListTab: View {
             SlidingTabView(selection: $tabIndex, tabs: ["All", "Completed", "To Do"], animation: .easeInOut)
             Spacer()
             if tabIndex == 0 {
-                    PeakList()
+                AllList()
             } else if tabIndex == 1 {
-                Text("Completed")
+                CompletedList()
             } else if tabIndex == 2 {
-                Text("To Do")
+                ToDoList()
             }
             Spacer()
         }

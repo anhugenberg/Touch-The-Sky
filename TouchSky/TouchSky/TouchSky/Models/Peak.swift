@@ -21,6 +21,8 @@ struct Peak: Hashable, Codable, Identifiable {
     var visit: String
     var type: String
     var difficulty: String
+    var isCompleted: Bool
+    var isToDo: Bool
 
     private var imageName: String
     var image: Image {

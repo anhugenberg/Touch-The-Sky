@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct TouchTheSkyApp: App {
+    @StateObject private var modelData = ModelData()
+    
     var body: some Scene {
         WindowGroup {
             HomeView()
+                .environmentObject(modelData)
         }
     }
 }

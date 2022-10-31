@@ -15,9 +15,12 @@ struct MapView: View {
         span: MKCoordinateSpan(latitudeDelta: 0.1, longitudeDelta: 0.1)
     )
     
+    @EnvironmentObject var modelData: ModelData
+
+    
     var body: some View {
         NavigationView {
-              Map(coordinateRegion: $mapRegion, annotationItems: peaks) { place in
+            Map(coordinateRegion: $mapRegion, annotationItems: modelData.peaks) { place in
                 MapAnnotation(coordinate: place.locationCoordinate) {
                   NavigationLink {
                       PeakDetail(peak: place)
@@ -33,6 +36,7 @@ struct MapView: View {
     struct MapView_Previews: PreviewProvider {
         static var previews: some View {
             MapView()
+                .environmentObject(ModelData())
         }
     }
 }

@@ -7,7 +7,11 @@
 
 import Foundation
 
-var peaks: [Peak] = load("peakData.json")
+import Combine
+
+final class ModelData: ObservableObject {
+    @Published var peaks: [Peak] = load("peakData.json")
+}
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data

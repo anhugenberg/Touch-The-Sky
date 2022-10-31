@@ -17,11 +17,22 @@ struct PeakRow: View {
                 .frame(width: 50, height: 50)
             Text(peak.name)
             Spacer()
+            
+            if peak.isCompleted {
+                Image(systemName: "checkmark.circle.fill")
+                    .foregroundColor(.green)
+            }
+            if peak.isToDo {
+                Image(systemName: "star.fill")
+                    .foregroundColor(.yellow)
+            }
         }
     }
 }
 
 struct PeakRow_Previews: PreviewProvider {
+    static var peaks = ModelData().peaks
+
     static var previews: some View {
         Group {
             PeakRow(peak: peaks[0])
