@@ -18,16 +18,14 @@ struct ToDoList: View {
     }
     
     var body: some View {
-        NavigationView {
-            List(filteredPeaks) { peak in
-                NavigationLink {
-                    PeakDetail(peak: peak)
-                } label: {
-                    PeakRow(peak: peak)
-                }
+        List(filteredPeaks) { peak in
+            NavigationLink {
+                PeakDetail(peak: peak)
+            } label: {
+                PeakRow(peak: peak)
             }
-            .navigationTitle("To Do")
         }
+        //.navigationTitle("To Do")
     }
 }
 

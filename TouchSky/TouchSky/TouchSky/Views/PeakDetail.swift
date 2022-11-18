@@ -24,10 +24,23 @@ struct PeakDetail: View {
                 HStack{
                     Text(peak.summitTrail)
                         .font(.title2)
-                    ToDoButton(isSet: $modelData.peaks[peakIndex].isToDo)
-                    CompletedButton(isSet: $modelData.peaks[peakIndex].isCompleted)
                 }
                 .padding(.bottom)
+                VStack {
+                    HStack{
+                        NavigationLink {
+                            CompletionFormView()
+                        } label: {
+                            Text("Completion Form")
+                                .foregroundColor(.blue)
+                                .bold()
+                        }
+                        CompletedButton(isSet: $modelData.peaks[peakIndex].isCompleted)
+                        ToDoButton(isSet: $modelData.peaks[peakIndex].isToDo)
+                    }
+                }
+                .padding(.bottom, 20)
+                
                 Group{
                     Text(peak.length)
                     Divider()
@@ -51,6 +64,7 @@ struct PeakDetail: View {
         .navigationTitle(peak.name)
         .navigationBarTitleDisplayMode(.inline)
     }
+    
 }
 
 struct PeakDetail_Previews: PreviewProvider {

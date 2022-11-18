@@ -10,16 +10,14 @@ import SwiftUI
 struct AllList: View {
     @EnvironmentObject var modelData: ModelData
     var body: some View {
-        NavigationView {
-            List(modelData.peaks) { peak in
-                NavigationLink {
-                    PeakDetail(peak: peak)
-                } label: {
-                    PeakRow(peak: peak)
-                }
+        List(modelData.peaks) { peak in
+            NavigationLink {
+                PeakDetail(peak: peak)
+            } label: {
+                PeakRow(peak: peak)
             }
-            .navigationTitle("All")
         }
+        //.navigationTitle("All")
     }
 }
 

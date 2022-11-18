@@ -18,16 +18,14 @@ struct CompletedList: View {
     }
     
     var body: some View {
-        NavigationView {
-            List(filteredPeaks) { peak in
-                NavigationLink {
-                    PeakDetail(peak: peak)
-                } label: {
-                    PeakRow(peak: peak)
-                }
+        List(filteredPeaks) { peak in
+            NavigationLink {
+                PeakDetail(peak: peak)
+            } label: {
+                PeakRow(peak: peak)
             }
-            .navigationTitle("Completed")
         }
+        //.navigationTitle("Completed")
     }
 }
 
