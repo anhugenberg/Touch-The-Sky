@@ -25,6 +25,9 @@ struct PeakAnnotationView: View {
             Image(systemName: "mappin.circle.fill")
                 .font(.title)
                 .foregroundColor(.red)
+                .background(
+                      Color.white.mask(Circle())
+                    )
             
             Image(systemName: "arrowtriangle.down.fill")
                 .font(.caption)

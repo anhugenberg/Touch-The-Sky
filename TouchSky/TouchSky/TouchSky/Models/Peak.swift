@@ -21,8 +21,42 @@ struct Peak: Hashable, Codable, Identifiable {
     var visit: String
     var type: String
     var difficulty: String
-    var isCompleted: Bool
-    var isToDo: Bool
+    
+    var isCompleted: Bool {
+        get {
+            if let allCompleted = UserDefaults.standard.array(forKey: "CompletedPeaks") as? [Int]{
+                return allCompleted.contains { $0 == id}
+            }
+            return false
+        }
+        set{
+            var allCompleted = UserDefaults.standard.array(forKey: "CompletedPeaks") as? [Int] ?? [Int]()
+            if newValue {
+                allCompleted.append(id)
+            } else {
+                allCompleted.removeAll { $0 == id }
+            }
+            UserDefaults.standard.set(allCompleted, forKey: "CompletedPeaks")
+        }
+    }
+    
+    var isToDo: Bool {
+        get {
+            if let allToDo = UserDefaults.standard.array(forKey: "ToDoPeaks") as? [Int]{
+                return allToDo.contains { $0 == id}
+            }
+            return false
+        }
+        set{
+            var allToDo = UserDefaults.standard.array(forKey: "ToDoPeaks") as? [Int] ?? [Int]()
+            if newValue {
+                allToDo.append(id)
+            } else {
+                allToDo.removeAll { $0 == id }
+            }
+            UserDefaults.standard.set(allToDo, forKey: "ToDoPeaks")
+        }
+    }
 
     private var imageName: String
     var image: Image {
@@ -40,4 +74,5 @@ struct Peak: Hashable, Codable, Identifiable {
         var latitude: Double
         var longitude: Double
     }
+
 }

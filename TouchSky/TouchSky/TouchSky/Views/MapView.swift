@@ -22,11 +22,12 @@ struct MapView: View {
         NavigationView {
             Map(coordinateRegion: $mapRegion, annotationItems: modelData.peaks) { place in
                 MapAnnotation(coordinate: place.locationCoordinate) {
-                  NavigationLink {
-                      PeakDetail(peak: place)
-                  } label: {
-                      PeakAnnotationView(title: place.name)
-                  }
+                    PeakAnnotationView(title: place.name)
+//                  NavigationLink {
+//                      PeakDetail(peak: place)
+//                  } label: {
+//                      PeakAnnotationView(title: place.name)
+//                  }
                 }
               }
               .ignoresSafeArea()

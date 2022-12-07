@@ -9,6 +9,8 @@ import SwiftUI
 
 struct PeakDetail: View {
     @EnvironmentObject var modelData: ModelData
+
+    
     var peak: Peak
     
     var peakIndex: Int {
@@ -24,6 +26,8 @@ struct PeakDetail: View {
                 HStack{
                     Text(peak.summitTrail)
                         .font(.title2)
+                    ToDoButton(isSet: $modelData.peaks[peakIndex].isToDo)
+                    CompletedButton(isSet: $modelData.peaks[peakIndex].isCompleted)
                 }
                 .padding(.bottom)
                 VStack {
@@ -34,9 +38,12 @@ struct PeakDetail: View {
                             Text("Completion Form")
                                 .foregroundColor(.blue)
                                 .bold()
+                                .overlay(
+                                        RoundedRectangle(cornerRadius: 5)
+                                            .stroke(.blue, lineWidth: 3)
+                                            .frame(width: 150, height: 30)
+                                    )
                         }
-                        CompletedButton(isSet: $modelData.peaks[peakIndex].isCompleted)
-                        ToDoButton(isSet: $modelData.peaks[peakIndex].isToDo)
                     }
                 }
                 .padding(.bottom, 20)
@@ -63,6 +70,7 @@ struct PeakDetail: View {
         }
         .navigationTitle(peak.name)
         .navigationBarTitleDisplayMode(.inline)
+    
     }
     
 }
