@@ -10,36 +10,52 @@ import SwiftUI
 struct CompletionFormView: View {
     
     @State private var dateValue = Date()
-    @State var dateString: String = ""
-    @State var entryString: String = ""
-    @State var storeFormArray: [String] = UserDefaults.standard.array(forKey: "CompletionEntries") as? [String] ?? [String]()
+    @State var timeValue: String = ""
+    @State var journalEntry: String = ""
     
-    let dateFormatter = DateFormatter()
+    @State var text: String = UserDefaults.standard.string(forKey: "TEXT_KEY") ?? ""
+    @State var inputText: String = ""
     
     var body: some View {
+//        NavigationView{
+//            VStack{
+//                Form{
+//                    Section{
+//                        DatePicker(selection: $dateValue, in: ...Date(), displayedComponents: .date) {
+//                                Text("Completion Date")
+//                            }
+//                    }
+//                    Section{
+//                        DatePicker(selection: $dateValue, in: ...Date(), displayedComponents: .hourAndMinute) {
+//                                Text("Completion Time")
+//                            }
+//                    }
+//                    Section{
+//                        TextField("Jornal Entry:", text: $journalEntry)
+//                    }
+//                }
+//            }
+//            .toolbar{
+//                ToolbarItem(placement: .confirmationAction){
+//                    Button("Done"){
+//
+//                    }
+//                }
+//            }
+//        }
         Form {
-            Section{
-                DatePicker(selection: $dateValue, in: ...Date(), displayedComponents: .date) {
-                        Text("Completion Date")
-                }
-            }
-            Section{
-                TextField("Completion Entry", text: $entryString)
+            Section(header: Text("date, time, stories, etc")){
+                TextField("Add some text here.", text: $inputText)
             }
             Button("Save"){
-                dateFormatter.dateFormat = "MMMM d, yyyy"
-                dateString = dateFormatter.string(from: dateValue)
-                storeFormArray.append(dateString)
-                storeFormArray.append(entryString)
-                UserDefaults.standard.set(storeFormArray, forKey: "CompletionEntries")
-                
+                UserDefaults.standard.set(inputText, forKey: "TEXT_KEY")
+                text = inputText
+                print("Saved: \(inputText)")
             }
             .foregroundColor(Color.blue)
             .frame(maxWidth: .infinity, alignment: .center)
-            Section(header: Text("Saved:")){
-                ForEach(storeFormArray, id: \.self) { entry in
-                                Text("\(entry)")
-                }
+            Section(header: Text("Saved Entry:")){
+                Text(text)
             }
         }
     }

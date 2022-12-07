@@ -13,15 +13,20 @@ struct HomeView: View {
     }
     var body: some View {
         TabView{
-            ListTab()
+            Home()
                 .tabItem(){
-                    Image(systemName: "list.bullet")
-                    Text("List")
+                    Image(systemName: "house")
+                    Text("Home")
                 }
             MapView()
                 .tabItem(){
                     Image(systemName: "mappin.circle")
                     Text("Map")
+                }
+            ListTab()
+                .tabItem(){
+                    Image(systemName: "list.bullet")
+                    Text("List")
                 }
         }
         .accentColor(.black)
