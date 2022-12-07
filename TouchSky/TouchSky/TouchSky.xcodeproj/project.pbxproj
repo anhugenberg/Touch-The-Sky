@@ -19,10 +19,10 @@
 		8E1623E328D923E500D5F72E /* peakData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E1623E228D923E500D5F72E /* peakData.json */; };
 		8E1623E528D923FC00D5F72E /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1623E428D923FC00D5F72E /* ModelData.swift */; };
 		8E33543028FE047500D0C66E /* PeakAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E33542F28FE047500D0C66E /* PeakAnnotationView.swift */; };
-		8E4C921F293E98A00034166A /* LaunchScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4C921E293E98A00034166A /* LaunchScreenView.swift */; };
 		8E8C66A328EB70C100411583 /* Quicksand-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E8C66A228EB70C100411583 /* Quicksand-Regular.ttf */; };
 		8EBEC32A2909DC710094E7B8 /* ToDoButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EBEC3292909DC710094E7B8 /* ToDoButton.swift */; };
 		8EBEC32C2909DF8F0094E7B8 /* CompletedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EBEC32B2909DF8F0094E7B8 /* CompletedButton.swift */; };
+		8EE881C429383A34001D965D /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EE881C329383A34001D965D /* Launch Screen.storyboard */; };
 		8EE95F2028E254B1008CF500 /* SlidingTabView in Frameworks */ = {isa = PBXBuildFile; productRef = 8EE95F1F28E254B1008CF500 /* SlidingTabView */; };
 		8EE95F2228E255BA008CF500 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE95F2128E255BA008CF500 /* Home.swift */; };
 		8EE95F2428E25D7E008CF500 /* ListTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE95F2328E25D7E008CF500 /* ListTab.swift */; };
@@ -43,11 +43,11 @@
 		8E1623E228D923E500D5F72E /* peakData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = peakData.json; sourceTree = "<group>"; };
 		8E1623E428D923FC00D5F72E /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		8E33542F28FE047500D0C66E /* PeakAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakAnnotationView.swift; sourceTree = "<group>"; };
-		8E4C921E293E98A00034166A /* LaunchScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreenView.swift; sourceTree = "<group>"; };
 		8E8C66A228EB70C100411583 /* Quicksand-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Quicksand-Regular.ttf"; sourceTree = "<group>"; };
 		8E8C66A428EB715800411583 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8EBEC3292909DC710094E7B8 /* ToDoButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoButton.swift; sourceTree = "<group>"; };
 		8EBEC32B2909DF8F0094E7B8 /* CompletedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompletedButton.swift; sourceTree = "<group>"; };
+		8EE881C329383A34001D965D /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		8EE95F2128E255BA008CF500 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		8EE95F2328E25D7E008CF500 /* ListTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTab.swift; sourceTree = "<group>"; };
 		8EE95F2528E25E49008CF500 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
@@ -91,6 +91,7 @@
 				8E1623E728D9253200D5F72E /* Models */,
 				8E1623E828D9254600D5F72E /* Resources */,
 				8E1623CE28D9217A00D5F72E /* Assets.xcassets */,
+				8EE881C329383A34001D965D /* Launch Screen.storyboard */,
 				8E1623D028D9217A00D5F72E /* Preview Content */,
 			);
 			path = TouchSky;
@@ -108,7 +109,6 @@
 			isa = PBXGroup;
 			children = (
 				8E1623CC28D9217900D5F72E /* HomeView.swift */,
-				8E4C921E293E98A00034166A /* LaunchScreenView.swift */,
 				8EBEC3292909DC710094E7B8 /* ToDoButton.swift */,
 				8EBEC32B2909DF8F0094E7B8 /* CompletedButton.swift */,
 				8EE95F2528E25E49008CF500 /* MapView.swift */,
@@ -207,6 +207,7 @@
 				8E1623E328D923E500D5F72E /* peakData.json in Resources */,
 				8E1623D228D9217A00D5F72E /* Preview Assets.xcassets in Resources */,
 				8E1623CF28D9217A00D5F72E /* Assets.xcassets in Resources */,
+				8EE881C429383A34001D965D /* Launch Screen.storyboard in Resources */,
 				8E8C66A328EB70C100411583 /* Quicksand-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -223,7 +224,6 @@
 				8E0CC572291F12340087519D /* CompletionFormView.swift in Sources */,
 				8EE95F2628E25E49008CF500 /* MapView.swift in Sources */,
 				8E1623E128D9226500D5F72E /* Peak.swift in Sources */,
-				8E4C921F293E98A00034166A /* LaunchScreenView.swift in Sources */,
 				8EE95F2228E255BA008CF500 /* Home.swift in Sources */,
 				8EBEC32A2909DC710094E7B8 /* ToDoButton.swift in Sources */,
 				8E33543028FE047500D0C66E /* PeakAnnotationView.swift in Sources */,
