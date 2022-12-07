@@ -22,23 +22,6 @@ struct Home: View {
                 }
                 .foregroundColor(.white)
                 .padding(.top, 210)
-//                List{
-//                    NavigationLink {
-//                        MapView()
-//                    } label: {
-//                        Image(systemName: "mappin.circle")
-//                        Text("View Map")
-//                    }
-//                    NavigationLink {
-//                        ListTab()
-//                    } label: {
-//                        Image(systemName: "list.bullet")
-//                        Text("View List")
-//                    }
-//                }
-//                .scrollContentBackground(.hidden)
-//                .padding(.top, 150)
-//                .padding(.bottom, 80)
             }
             .background(
                     Image("homeimg")
