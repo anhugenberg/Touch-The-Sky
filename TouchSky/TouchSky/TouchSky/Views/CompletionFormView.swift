@@ -10,40 +10,36 @@ import SwiftUI
 struct CompletionFormView: View {
     
     @State private var dateValue = Date()
-    @State var timeValue: String = ""
-    @State var journalEntry: String = ""
+    @State var dateString: String = ""
+    @State var entryString: String = ""
+    @State var storeFormArray: [String] = UserDefaults.standard.array(forKey: "CompletionEntries") as? [String] ?? [String]()
+    
+    let dateFormatter = DateFormatter()
     
     var body: some View {
-        NavigationView{
-            VStack{
-                Form{
-                    Section{
-                        DatePicker(selection: $dateValue, in: ...Date(), displayedComponents: .date) {
-                                Text("Completion Date")
-                            }
-                    }
-                    Section{
-                        DatePicker(selection: $dateValue, in: ...Date(), displayedComponents: .hourAndMinute) {
-                                Text("Completion Time")
-                            }
-                    }
-                    Section{
-                        TextField("Jornal Entry:", text: $journalEntry)
-                    }
+        Form {
+            Section{
+                DatePicker(selection: $dateValue, in: ...Date(), displayedComponents: .date) {
+                        Text("Completion Date")
                 }
             }
-            //.navigationTitle("Completion Form")
-            .toolbar{
-                ToolbarItem(placement: .confirmationAction){
-                    Button("Done"){
-                        
-                    }
+            Section{
+                TextField("Completion Entry", text: $entryString)
+            }
+            Button("Save"){
+                dateFormatter.dateFormat = "MMMM d, yyyy"
+                dateString = dateFormatter.string(from: dateValue)
+                storeFormArray.append(dateString)
+                storeFormArray.append(entryString)
+                UserDefaults.standard.set(storeFormArray, forKey: "CompletionEntries")
+                
+            }
+            .foregroundColor(Color.blue)
+            .frame(maxWidth: .infinity, alignment: .center)
+            Section(header: Text("Saved:")){
+                ForEach(storeFormArray, id: \.self) { entry in
+                                Text("\(entry)")
                 }
-//                ToolbarItem(placement: .navigationBarLeading){
-//                    Button("Cancel"){
-//
-//                    }
-//                }
             }
         }
     }
